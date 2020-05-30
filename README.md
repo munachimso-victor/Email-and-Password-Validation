@@ -2,6 +2,8 @@
  ### This program takes in an email address and VALIDATES if it is Syntactically CORRECT, and also VERIFIES if the domain exists
  ### The program also takes in a password and EXAMINES if it meets the minimum requirements for a SAFE and SECURE password
 
+### [![Run on Repl.it](https://repl.it/badge/github/munachimso-victor/Email-and-Password-Validation)](https://repl.it/github/munachimso-victor/Email-and-Password-Validation)
+
 ## EMAIL ADDRESS ##
 ### Local Portion:
 The local-part of the email address may be unquoted or may be enclosed in quotation marks.
