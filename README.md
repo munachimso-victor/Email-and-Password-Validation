@@ -3,7 +3,6 @@
  
  The program also takes in a password and EXAMINES if it meets the minimum requirements for a SAFE and SECURE password
  
- EMAIL ADDRESS
   Local Portion:
         The local-part of the email address may be unquoted or may be enclosed in quotation marks.
         The maximum total length of the local-part of an email address is 64 octets.
@@ -29,6 +28,3 @@
         *This program does not accept comments in the local or domain section and IP address literals
         * The maximum email length is based on the RFC 5321 and the erracta submitted against the RFC 3696. This erracta specifies that
         the maximum number of chaaracters is 254 due to the reverse and forward path specification 
-
-
-
