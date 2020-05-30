@@ -6,7 +6,6 @@
   Local Portion:
         The local-part of the email address may be unquoted or may be enclosed in quotation marks.
         The maximum total length of the local-part of an email address is 64 octets.
-
         If unquoted, it may use any of these ASCII characters:
         =>uppercase and lowercase Latin letters A to Z and a to z;
         =>digits 0 to 9;
