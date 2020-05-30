@@ -3,7 +3,7 @@
  The program also takes in a password and EXAMINES if it meets the minimum requirements for a SAFE and SECURE password
 
 ## EMAIL ADDRESS ##
-### Local Portion:###
+### Local Portion:
 The local-part of the email address may be unquoted or may be enclosed in quotation marks.
 The maximum total length of the local-part of an email address is 64 octets.
  If unquoted, it may use any of these ASCII characters:
