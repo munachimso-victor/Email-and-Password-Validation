@@ -1,7 +1,8 @@
 # Email-and-Password-Validation Program
  ### This program takes in an email address and VALIDATES if it is Syntactically CORRECT, and also VERIFIES if the domain exists
  ### The program also takes in a password and EXAMINES if it meets the minimum requirements for a SAFE and SECURE password
-
+ #### Resources: Regex, Python, Functional Programming
+ 
 &nbsp;
 #### Run the program by clicking this link!: https://email-and-password-validation.nwaiwumunachims.repl.run/
 &nbsp;
